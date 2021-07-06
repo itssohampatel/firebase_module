@@ -1,0 +1,297 @@
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: data must only contain string values
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at /home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:78:19
+    at Array.forEach (<anonymous>)
+    at validateStringMap (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:76:22)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:55:5)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:61:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: Exactly one of topic, token or condition is required
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:53:15)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: Exactly one of topic, token or condition is required
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:53:15)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: Exactly one of topic, token or condition is required
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:53:15)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: Exactly one of topic, token or condition is required
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:53:15)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: Exactly one of topic, token or condition is required
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:53:15)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: Exactly one of topic, token or condition is required
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:53:15)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: Exactly one of topic, token or condition is required
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:53:15)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: Exactly one of topic, token or condition is required
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:53:15)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: Exactly one of topic, token or condition is required
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:53:15)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+Error: Exactly one of topic, token or condition is required
+    at FirebaseMessagingError.FirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:43:28)
+    at FirebaseMessagingError.PrefixedFirebaseError [as constructor] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:89:28)
+    at new FirebaseMessagingError (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/utils/error.js:255:16)
+    at Object.validateMessage (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging-internal.js:53:15)
+    at Messaging.send (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/firebase-admin/lib/messaging/messaging.js:225:30)
+    at /home/czxilvyp/emplitrack.com/firebase/index.html:42:15
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/czxilvyp/nodevenv/emplitrack.com/firebase/11/lib/node_modules/express/lib/router/layer.js:95:5)
